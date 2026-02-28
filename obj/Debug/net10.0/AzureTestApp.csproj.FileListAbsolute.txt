@@ -21,7 +21,6 @@ C:\Users\Hoai\AzureTestApp\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
 C:\Users\Hoai\AzureTestApp\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Hoai\AzureTestApp\obj\Debug\net10.0\scopedcss\bundle\AzureTestApp.styles.css
 C:\Users\Hoai\AzureTestApp\obj\Debug\net10.0\scopedcss\projectbundle\AzureTestApp.bundle.scp.css
-C:\Users\Hoai\AzureTestApp\obj\Debug\net10.0\compressed\i86f00wn76-{0}-b9sayid5wm-b9sayid5wm.gz
 C:\Users\Hoai\AzureTestApp\obj\Debug\net10.0\compressed\802fkrhlhf-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\Users\Hoai\AzureTestApp\obj\Debug\net10.0\compressed\yzblojce7x-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\Hoai\AzureTestApp\obj\Debug\net10.0\compressed\v3clhe145y-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -95,3 +94,5 @@ C:\Users\Hoai\AzureTestApp\obj\Debug\net10.0\refint\AzureTestApp.dll
 C:\Users\Hoai\AzureTestApp\obj\Debug\net10.0\AzureTestApp.pdb
 C:\Users\Hoai\AzureTestApp\obj\Debug\net10.0\AzureTestApp.genruntimeconfig.cache
 C:\Users\Hoai\AzureTestApp\obj\Debug\net10.0\ref\AzureTestApp.dll
+C:\Users\Hoai\AzureTestApp\obj\Debug\net10.0\AzureTestApp.sourcelink.json
+C:\Users\Hoai\AzureTestApp\obj\Debug\net10.0\compressed\i86f00wn76-{0}-wkce1iuwfp-wkce1iuwfp.gz

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzureTestApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abfa185503940bdaf8863741fad713aa805b35ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("AzureTestApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AzureTestApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
