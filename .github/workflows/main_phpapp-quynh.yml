@@ -28,4 +28,5 @@ jobs:
         uses: azure/webapps-deploy@v3
         with:
           app-name: phpapp-quynh
-          package: php-app
+          package: ./php-app
+
